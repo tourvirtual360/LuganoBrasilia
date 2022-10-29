@@ -1,0 +1,48 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Cafeteria e Chocolataria em Brasília
+
+### Title
+tour.name = Lugano Brasília
+
+## Skin
+
+### Button
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ENTRADA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ENTRADA
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = ÁREA EXTERNA
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = ÁREA EXTERNA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = SALÃO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = SALÃO
+Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9.label = ÁREA INTERNA
+Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9_mobile.label = ÁREA INTERNA
+
+## Media
+
+### Title
+panorama_2BDBBA28_2173_05E0_4191_BD2D4296CB2F.label = IMG_20221027_090940_00_merged-HDR
+panorama_2BDC03CA_2173_0AA0_419E_0E520287AAF6.label = IMG_20221027_091225_00_merged-HDR
+panorama_2BDC875B_2173_0BA1_418D_8B59795FF964.label = IMG_20221027_085216_00_merged-HDR
+panorama_2BDCD592_2173_0EA3_41B5_26B5887FE09B.label = IMG_20221027_090114_00_merged-HDR
+panorama_2BDCD7F2_2173_0A60_4188_AE0064B9399B.label = IMG_20221027_090406_00_merged-HDR
+panorama_2BDCE636_2173_0DE0_41AA_FFB38A9E602D.label = IMG_20221027_085427_00_merged-HDR
+panorama_2BDD28CC_2175_06A0_41AC_8F252E76EFA0.label = IMG_20221027_084730_00_merged-HDR
+panorama_2ED505FB_219D_0E60_41A5_98E43C2F5C9B.label = IMG_20221027_083855_00_merged-HDR-2
+panorama_2FB58C80_219F_1EA0_4195_A59DB9A815D0.label = IMG_20221027_090642_00_merged-HDR
+panorama_2FC60C39_219F_7DE1_41B3_15234C459A3C.label = IMG_20221027_084137_00_merged-HDR
+video_3133BAB2_219F_7AE3_41BE_FB86C9F02140.label = Vídeo 2
+video_334C3886_2193_06A0_41B5_EBCF2FA58796.label = Video 4
+video_3BD20932_2193_07E0_419D_44BE30853EDD.label = Video 3
+
+## Action
+
+### URL
+LinkBehaviour_38425B9B_2177_3AA0_41BC_58B9986A63B2.source = https://wa.link/7c1fh6
+LinkBehaviour_38F9D383_2177_0AA1_419C_37785F01DFB3.source = https://g.page/luganoasasul?share
+LinkBehaviour_3917CD42_2177_7FA3_4188_D7619EE14F33.source = https://g.page/luganoasasul?share
+LinkBehaviour_393AC85B_2173_05A0_41A2_AF7406539F7C.source = https://wa.link/7c1fh6
+LinkBehaviour_3940EFA0_2177_3AE0_41B6_41A2F8A0369C.source = https://www.instagram.com/chocolatelugano.bsbasasul/
+LinkBehaviour_39639D23_2175_FFE0_41C0_28C625ECBADF.source = https://www.instagram.com/chocolatelugano.bsbasasul/
