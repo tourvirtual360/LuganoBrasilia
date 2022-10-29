@@ -3,7 +3,6 @@
 ## Tour
 
 ### Description
-tour.description = Cafeteria e Chocolataria em Brasília
 
 ### Title
 tour.name = Lugano Brasília
@@ -15,10 +14,10 @@ Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ENTRADA
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ENTRADA
 Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = ÁREA EXTERNA
 Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = ÁREA EXTERNA
-Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = SALÃO
-Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = SALÃO
-Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9.label = ÁREA INTERNA
-Button_E7BA7801_FB4F_7D03_41C2_8B6EE6D3E8D9_mobile.label = ÁREA INTERNA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = SALÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = SALÃO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ÁREA INTERNA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ÁREA INTERNA
 
 ## Media
 
@@ -35,14 +34,14 @@ panorama_2FB58C80_219F_1EA0_4195_A59DB9A815D0.label = IMG_20221027_090642_00_mer
 panorama_2FC60C39_219F_7DE1_41B3_15234C459A3C.label = IMG_20221027_084137_00_merged-HDR
 video_3133BAB2_219F_7AE3_41BE_FB86C9F02140.label = Vídeo 2
 video_334C3886_2193_06A0_41B5_EBCF2FA58796.label = Video 4
-video_3BD20932_2193_07E0_419D_44BE30853EDD.label = Video 3
+video_33897FAE_2237_B08E_41B2_F6004641F162.label = Video 3
 
 ## Action
 
 ### URL
-LinkBehaviour_38425B9B_2177_3AA0_41BC_58B9986A63B2.source = https://wa.link/7c1fh6
-LinkBehaviour_38F9D383_2177_0AA1_419C_37785F01DFB3.source = https://g.page/luganoasasul?share
-LinkBehaviour_3917CD42_2177_7FA3_4188_D7619EE14F33.source = https://g.page/luganoasasul?share
-LinkBehaviour_393AC85B_2173_05A0_41A2_AF7406539F7C.source = https://wa.link/7c1fh6
-LinkBehaviour_3940EFA0_2177_3AE0_41B6_41A2F8A0369C.source = https://www.instagram.com/chocolatelugano.bsbasasul/
-LinkBehaviour_39639D23_2175_FFE0_41C0_28C625ECBADF.source = https://www.instagram.com/chocolatelugano.bsbasasul/
+LinkBehaviour_317793E5_223C_90B2_416B_D4255598045A.source = https://wa.link/zrr92b
+LinkBehaviour_318F3AF8_2233_9092_419E_5A3E6AE0064D.source = https://maps.app.goo.gl/65HvYuCBbr5jjhks5?g_st=ic
+LinkBehaviour_3460D62B_2235_F3B6_41B6_F588CF283210.source = https://wa.link/zrr92b
+LinkBehaviour_3462462D_2235_F3B2_41B7_BCA250CC7613.source = https://maps.app.goo.gl/65HvYuCBbr5jjhks5?g_st=ic
+LinkBehaviour_3462762C_2235_F3B3_41AB_A9787F9768F2.source = https://www.instagram.com/chocolatelugano.bsbasasul
+LinkBehaviour_367B7674_223C_9391_41AA_5D76E73215A5.source = https://www.instagram.com/chocolatelugano.bsbasasul
