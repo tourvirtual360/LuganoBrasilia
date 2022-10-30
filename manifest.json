@@ -1,7 +1,9 @@
 {
- "name": "Lugano Brasília",
+ "theme_color": "#FFFFFF",
  "start_url": "index.htm",
  "background_color": "#FFFFFF",
+ "description": "Cafeteria e Chocolataria",
+ "name": "Lugano Brasília",
  "icons": [
   {
    "type": "image/png",
@@ -39,6 +41,5 @@
    "src": "misc/icon64.png"
   }
  ],
- "display": "fullscreen",
- "theme_color": "#FFFFFF"
+ "display": "fullscreen"
 }
